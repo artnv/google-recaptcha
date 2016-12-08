@@ -1,0 +1,49 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	background-color: #fbfbfb;
+}
+.main {
+	width: 700px;
+	margin: 50px auto 50px auto;
+	background-color: #f0f0f0;
+	padding: 50px;
+	border-radius: 4px;
+}
+input[type="text"] {
+	width: 300px;
+	height: 30px;
+	margin-bottom: 10px;
+	padding: 2px 5px;
+	border: 0px;
+}
+input[type="submit"] {}
+#txt {
+	width: 600px;
+	height: 200px;
+	max-width: 600px;
+	border: none;
+	margin-bottom: 10px;
+	padding: 2px 5px;
+}
+#submit {
+	width: 150px;
+	height: 20px;
+	margin-top: 30px;
+}
+.g-recaptcha {
+	margin-bottom: 10px;
+	width: 305px;
+}
+#status {
+	font-size: 12px;
+	color: green;
+	margin-left: 20px;
+}
+#res {
+	border-top: 1px solid #d9d9ce;
+	margin: 20px 0 0 0;
+	padding-top: 5px;
+}
